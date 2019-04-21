@@ -2,7 +2,9 @@
 
 Let's play java-sound like a `JavaButton` on your keyboard!
 
-todo: Link to the demo video.
+![Demo 1](./demos/SlimeRancher_java-sound1_libx264_crf30.mp4)
+
+![Demo 2](./demos/SlimeRancher_java-sound1_libx264_crf30.mp4)
 
 ## Prerequisites
 
