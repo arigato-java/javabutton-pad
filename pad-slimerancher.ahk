@@ -61,7 +61,7 @@ Return
 ; Pulse Wave
 ~*Q::RandomPlay("sounds\UNCHI_%.wav", 0, 4, 1)
 
-; ; Jump & Hover (Default keybind: "SPACE")
+; Jump & Hover (Default keybind: "SPACE")
 ~*Space::  
 ;~*MButton::
     IsInHover := True
@@ -80,16 +80,16 @@ Return
     IsInHover := False
 Return
 
-; ; Dash
+; Dash
 ;~*Shift::SoundPlay, sounds/OP_song.wav, WAIT
 
-; ; Gadget Mode
+; Gadget Mode
 ~*T::SoundPlay, sounds/ADV_UMU.wav
 
-; ; Flashlight
+; Flashlight
 ~*F::SoundPlay, sounds/OP_song.wav, WAIT
 
-; ; Map  (Default keybind: "M")
+; Map  (Default keybind: "M")
 ~*M::
 ~*C::
 ~*B::
